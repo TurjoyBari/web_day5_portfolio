@@ -182,3 +182,50 @@ nav .menu ul a{
   color: #757575;
   
 }
+
+#resume{
+  margin-top: 130px;
+}
+#resume .section-hading{
+  margin-bottom: 113px;
+}
+
+.resume-container{
+  display: flex;
+  gap: 24px;
+  width: 71%;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.resume-head{
+  font-size: 30px;
+  color: #474747;
+  margin-bottom: 30px;
+}
+
+.resume-card{
+  max-width: 511px;
+}
+
+.resume-card .resume-titel{
+  font-size: 25px;
+  color: #474747;
+  margin-bottom: 10px;
+}
+
+.resume-card .resume-year{
+  font-size: 20px;
+  color: #757575;
+  margin-bottom: 20px;
+}
+
+.resume-card .resume-text{
+  font-size: 16px;
+  line-height: 28px;
+  color: #757575;
+  margin-bottom: 30px;
+}
+.resume-container hr{
+  margin-bottom: 30px;
+}
